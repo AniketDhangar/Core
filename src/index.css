@@ -1,0 +1,21 @@
+/* body{
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: #5f826c;
+    }
+div{
+    margin: 20px;
+    padding: 10px;
+    background-color: #bfbbbb;
+box-shadow: 10px 10px 15px grey ;
+border-radius: 10px;
+}
+
+button{
+    padding: 5px;
+    font-size: large;
+    border-radius: 10px;
+    border: none;
+    margin: 5px;
+} */
